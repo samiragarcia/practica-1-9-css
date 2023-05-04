@@ -1,0 +1,33 @@
+body{
+    font-family: monospace;
+    background-color: black;
+    color: white;
+}
+
+#texto-1{
+    color:lime; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.texto-2{
+    color: purple;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.texto-3{
+    color:deepskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+}
+
+.texto-4{
+    color:yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+.imagen{
+    width: 330px;
+}
